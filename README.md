@@ -17,27 +17,27 @@ Sigue estos pasos para clonar e instalar el proyecto en tu máquina local:
 
 1. Clona este repositorio:
 
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   `git clone https://github.com/SalmaMadmadi/dashboardTFG.git`
 
 2. Cambia al directorio del proyecto:
 
-    cd proyecto
+    `cd proyecto`
 
 3. Crea un entorno virtual:
 
-    python -m venv .venv
+    `python -m venv .venv`
 
 4. Activa el entorno virtual (Windows):
 
-    .venv\Scripts\activate
+    `.venv\Scripts\activate`
 
 5. Instala las dependencias necesarias:
 
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 Una vez que las dependencias estén instaladas, ejecuta el proyecto con:
 
-python appweb.py
+`python appweb.py`
 
 ## 💻 Enlace del resultado 
 
