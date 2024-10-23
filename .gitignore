@@ -1,0 +1,42 @@
+# Evitar la carpeta del entorno virtual
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de configuración del entorno
+*.env
+
+# Archivos de log
+*.log
+
+# Bases de datos locales
+*.sqlite3
+
+# Archivos de caché de Jupyter
+.ipynb_checkpoints/
+
+# Archivos creados por editores o sistemas
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de testeo o cobertura
+coverage.xml
+*.cover
+*.coverage
+.cache/
+nosetests.xml
