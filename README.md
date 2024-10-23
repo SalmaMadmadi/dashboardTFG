@@ -2,7 +2,9 @@
 
 Código de mi Trabajo de Fin de Grado "Dashboard web orientado al análisis de vehículos a partir de datos reales"
 
-Un proyecto que funda las bases para la creación de modelos basados por datos
+Un proyecto desarrollado para fundar las bases de modelos basados en datos, toma una base de datos con cientos de vehículos y hace la conversión a gráficas interactivas donde se podrá ver tanto el comportamiento individual como el grupal.
+
+Agradecimientos a [L3Pilot](https://l3pilot.eu/data.html) por su generosa contribución al proporcionar acceso a sus bases de datos de vehículos.
 
 ## ⌨️ Requisitos previos
 
